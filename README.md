@@ -1,5 +1,4 @@
-<img width="30%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
-<img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
+<a href="https://drive.google.com/uc?export=download&id=15B9sVQpIXlQ2JeYOm9V5SNiLHiInW9tU" target="_blank" rel="download org image">![alt README header](https://github.com/zmcx16/zmcx16/blob/master/images/kanban1-demo.jpg?raw=true)</a>
 
 
 <p align="center">
