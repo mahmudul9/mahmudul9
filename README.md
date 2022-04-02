@@ -19,3 +19,35 @@ Mahamudul Hasan</a>'s Profile 👋</h1>
   <li>💼 I'm a Front end developer at Crediometer.</li>
   <li>🧐 Portfolio Website, mahamudulwp.com</li>
 </ul>
+
+
+#### A little more about me
+```PHP
+const badri = {
+  pronouns: "He" | "Him",
+  code: ["PHP", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "php"],
+  technologies: {
+      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
+      backend: ["PHP", "JS"],
+  }
+}
+
+#### My GitHub Data :octocat:
+> 🏆 220+ Contributions in the Year 2022
+ > 
+> 📜 200+ Commits on GitHub
+ > 
+> 🔑 80+ Contribution in Private Repos
+ > 
+
+
+#### Popular Projects
+<a href="https://github.com/MrBlueBird2/to-do-list-php">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+</a>    
+<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+</a>
