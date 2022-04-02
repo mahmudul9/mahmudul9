@@ -21,7 +21,7 @@ Mahamudul Hasan</a>'s Profile 👋</h1>
 </ul>
 
 
-#### A little more about me
+<!-- #### A little more about me
 ```PHP
 const badri = {
   pronouns: "He" | "Him",
@@ -31,7 +31,7 @@ const badri = {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
       backend: ["PHP", "JS"],
   }
-}
+} -->
 
 
 ## 👨‍💻 Languages and Tools
