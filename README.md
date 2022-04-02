@@ -33,8 +33,7 @@ const badri = {
   }
 }
 
-
-
+  <hr>
  
 
 
