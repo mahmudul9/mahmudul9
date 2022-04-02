@@ -33,13 +33,13 @@ const badri = {
   }
 }
 
-#### My GitHub Data :
-> 🏆 220+ Contributions in the Year 2022
-> 
-> 📜 200+ Commits on GitHub
-> 
-> 🔑 80+ Contribution in Private Repos
-> 
+ ## My GitHub Data :
+ ### 🏆 220+ Contributions in the Year 2022
+
+ ### 📜 200+ Commits on GitHub
+ 
+ ### 🔑 80+ Contribution in Private Repos
+ 
 
 
 
